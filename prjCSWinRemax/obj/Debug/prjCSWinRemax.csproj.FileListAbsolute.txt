@@ -1,0 +1,60 @@
+C:\Users\DELL\Downloads\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\bin\Debug\RemaxDatabase.mdb
+C:\Users\DELL\Downloads\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\bin\Debug\prjCSWinRemax.exe.config
+C:\Users\DELL\Downloads\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\bin\Debug\prjCSWinRemax.exe
+C:\Users\DELL\Downloads\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\bin\Debug\prjCSWinRemax.pdb
+C:\Users\DELL\Downloads\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\bin\Debug\MetroFramework.Design.dll
+C:\Users\DELL\Downloads\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\bin\Debug\MetroFramework.dll
+C:\Users\DELL\Downloads\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\DELL\Downloads\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.GUI.frmAdmAgents.resources
+C:\Users\DELL\Downloads\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.GUI.frmAdmClients.resources
+C:\Users\DELL\Downloads\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.GUI.frmAdmHouses.resources
+C:\Users\DELL\Downloads\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.GUI.frmAgentInfo.resources
+C:\Users\DELL\Downloads\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.GUI.frmClientInfo.resources
+C:\Users\DELL\Downloads\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.GUI.frmFeatMgmt.resources
+C:\Users\DELL\Downloads\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.GUI.frmHouseAddEdit.resources
+C:\Users\DELL\Downloads\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.GUI.frmHousesInfo.resources
+C:\Users\DELL\Downloads\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.GUI.frmInfo.resources
+C:\Users\DELL\Downloads\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.GUI.frmInventory.resources
+C:\Users\DELL\Downloads\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.GUI.frmLogin.resources
+C:\Users\DELL\Downloads\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.frmMain.resources
+C:\Users\DELL\Downloads\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.GUI.frmNewAgent.resources
+C:\Users\DELL\Downloads\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.GUI.frmNewClient.resources
+C:\Users\DELL\Downloads\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.GUI.frmSearch.resources
+C:\Users\DELL\Downloads\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.GUI.frmSkillsMgmt.resources
+C:\Users\DELL\Downloads\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.Properties.Resources.resources
+C:\Users\DELL\Downloads\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.csproj.CopyComplete
+C:\Users\DELL\Downloads\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.exe
+C:\Users\DELL\Downloads\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.pdb
+F:\LaSalle\Semester_3\Multi-tier\Final\Awesome project\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\bin\Debug\RemaxDatabase.mdb
+F:\LaSalle\Semester_3\Multi-tier\Final\Awesome project\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\bin\Debug\prjCSWinRemax.exe.config
+F:\LaSalle\Semester_3\Multi-tier\Final\Awesome project\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\bin\Debug\prjCSWinRemax.exe
+F:\LaSalle\Semester_3\Multi-tier\Final\Awesome project\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\bin\Debug\prjCSWinRemax.pdb
+F:\LaSalle\Semester_3\Multi-tier\Final\Awesome project\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\bin\Debug\MetroFramework.Design.dll
+F:\LaSalle\Semester_3\Multi-tier\Final\Awesome project\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\bin\Debug\MetroFramework.dll
+F:\LaSalle\Semester_3\Multi-tier\Final\Awesome project\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\bin\Debug\MetroFramework.Fonts.dll
+F:\LaSalle\Semester_3\Multi-tier\Final\Awesome project\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.csprojAssemblyReference.cache
+F:\LaSalle\Semester_3\Multi-tier\Final\Awesome project\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.GUI.frmAdmAgents.resources
+F:\LaSalle\Semester_3\Multi-tier\Final\Awesome project\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.GUI.frmAdmClients.resources
+F:\LaSalle\Semester_3\Multi-tier\Final\Awesome project\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.GUI.frmAdmHouses.resources
+F:\LaSalle\Semester_3\Multi-tier\Final\Awesome project\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.GUI.frmAgentInfo.resources
+F:\LaSalle\Semester_3\Multi-tier\Final\Awesome project\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.GUI.frmClientInfo.resources
+F:\LaSalle\Semester_3\Multi-tier\Final\Awesome project\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.GUI.frmFeatMgmt.resources
+F:\LaSalle\Semester_3\Multi-tier\Final\Awesome project\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.GUI.frmHouseAddEdit.resources
+F:\LaSalle\Semester_3\Multi-tier\Final\Awesome project\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.GUI.frmHousesInfo.resources
+F:\LaSalle\Semester_3\Multi-tier\Final\Awesome project\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.GUI.frmInfo.resources
+F:\LaSalle\Semester_3\Multi-tier\Final\Awesome project\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.GUI.frmInventory.resources
+F:\LaSalle\Semester_3\Multi-tier\Final\Awesome project\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.GUI.frmLogin.resources
+F:\LaSalle\Semester_3\Multi-tier\Final\Awesome project\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.frmMain.resources
+F:\LaSalle\Semester_3\Multi-tier\Final\Awesome project\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.GUI.frmNewAgent.resources
+F:\LaSalle\Semester_3\Multi-tier\Final\Awesome project\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.GUI.frmNewClient.resources
+F:\LaSalle\Semester_3\Multi-tier\Final\Awesome project\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.GUI.frmSearch.resources
+F:\LaSalle\Semester_3\Multi-tier\Final\Awesome project\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.GUI.frmSkillsMgmt.resources
+F:\LaSalle\Semester_3\Multi-tier\Final\Awesome project\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.Properties.Resources.resources
+F:\LaSalle\Semester_3\Multi-tier\Final\Awesome project\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.csproj.GenerateResource.cache
+F:\LaSalle\Semester_3\Multi-tier\Final\Awesome project\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.csproj.CoreCompileInputs.cache
+F:\LaSalle\Semester_3\Multi-tier\Final\Awesome project\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.csproj.CopyComplete
+F:\LaSalle\Semester_3\Multi-tier\Final\Awesome project\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.exe
+F:\LaSalle\Semester_3\Multi-tier\Final\Awesome project\Re-Max-C-Database-Manipulator-master\prjCSWinRemax\obj\Debug\prjCSWinRemax.pdb
